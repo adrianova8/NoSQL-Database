@@ -1,4 +1,4 @@
- Sprint 15 T01: NoSQL Databases
+ # Sprint 15 T01: NoSQL Databases
 
 **Target:**
 * Use a MongoDB database
